@@ -1,0 +1,15 @@
+body {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+main {
+  flex-grow: 1
+}
+
+.ice-cream img{
+  height: 30vh;
+  width: 30vh;
+  object-fit: cover;
+}
